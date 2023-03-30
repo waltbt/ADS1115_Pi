@@ -5,7 +5,7 @@ ADS1115.py
 Function: A simple class to operate an ADS1115 over I2C on an RPi with Python
 ADS1115 is 4 channel a 16-bit ADC which operates over I2C
 Author: Benjamin Walt
-Date: 4/19/2021
+Date: 3/30/2023
 Version: 0.1
 Copyright (c) Benjamin Thomas Walt
 Licensed under the MIT license.
